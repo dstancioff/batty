@@ -1,6 +1,6 @@
 # Batty
 
-![Batty screenshot](screenshot.png)
+![Batty icon](Icon.png)
 
 A menu bar app that shows you where your MacBook's power is actually going — and helps you squeeze more life out of your battery.
 
