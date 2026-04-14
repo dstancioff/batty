@@ -5,6 +5,17 @@
         <description>Batty update feed</description>
         <language>en</language>
         <item>
+            <title>0.5</title>
+            <pubDate>Tue, 14 Apr 2026 01:42:46 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dstancioff/batty/releases/download/0.5/Batty-0.5.zip" length="1793377" type="application/octet-stream" sparkle:edSignature="Fy1+lF81j7SVBN1jWPf/9zu4COvQXvxdGNi1KPPxeQXurfZHzskat6L5lh/kRcz14PQ+kd3bvlbjE5H66VGQDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty3-1.delta" sparkle:deltaFrom="1" length="69954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+4GR+uTrXwL5d7LNeRpSFhnJFOc6hLU1GwVZF4/9GNIRiM5AuGEBN7n/FlZPwupuSYTdpzUzabNoIpKhk9kHAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4</title>
             <pubDate>Tue, 14 Apr 2026 01:28:42 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
