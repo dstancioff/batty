@@ -5,6 +5,18 @@
         <description>Batty update feed</description>
         <language>en</language>
         <item>
+            <title>0.6</title>
+            <pubDate>Tue, 14 Apr 2026 19:52:18 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dstancioff/batty/releases/download/0.6/Batty-0.6.zip" length="1862222" type="application/octet-stream" sparkle:edSignature="N8dCLoDTBtr2InLfPhpwHTQe9YC1B6K9UCyZeemAx/alq+XwCZWxfkDCcGaqg1XcKLlsvD6u3h5ARd53iZYJAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty5-3.delta" sparkle:deltaFrom="3" length="172278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J++a2ve5egfBCzW8Ytntlc4LQWYHzi0EtmQfPRMfbECQ22sO0Pjzp7vCBBsj0tbNYEhBsiw5jePiUp+sCWCoAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty5-1.delta" sparkle:deltaFrom="1" length="176066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OsYjQHmchv9D9bEtX52udolBIQP6DcWkMpN9Q8OgDtvyJfCvKtQf8c2P38DI7E82Uv6Hv1X7cY8jkCKGdvCSDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5</title>
             <pubDate>Tue, 14 Apr 2026 01:42:46 -0400</pubDate>
             <sparkle:version>3</sparkle:version>
