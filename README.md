@@ -23,7 +23,7 @@ macOS estimates update slowly and don't reflect what you're doing *right now*. B
 
 ## Install
 
-Download the latest release, drag to Applications, done. Batty lives in your menu bar, and does not have a dock icon.
+Download the latest release and drag to Applications. Batty lives in your menu bar and does not have a dock icon. Updates are delivered automatically via Sparkle.
 
 ## Screenshots
 
