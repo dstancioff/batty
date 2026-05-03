@@ -12,6 +12,8 @@ Batty brings an energy flow screen to your Mac. Watch power flow between your ch
 - How many watts you're pulling from the wall right now
 - How much power is flowing into (or out of) your battery
 - How your screen brightness, CPU, GPU, and other components are draining your battery — updated live as you work
+- How much power your SSD, WiFi, USB devices, and audio output are using — broken out individually instead of lumped together
+- Which apps and background processes are using the most energy right now
 
 **Make smarter choices:**
 
