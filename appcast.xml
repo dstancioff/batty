@@ -5,6 +5,21 @@
         <description>Batty update feed</description>
         <language>en</language>
         <item>
+            <title>0.10</title>
+            <pubDate>Mon, 01 Jun 2026 01:03:24 -0400</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dstancioff/batty/releases/download/0.10/Batty-0.10.zip" length="1925349" type="application/octet-stream" sparkle:edSignature="+ez54r+wgQJ61ZVS9guCI2UI9jAC0Wv+7GLF2pUEZJQOsvmGEdYjwRdMWSzc7rrysPbHuOoGii/rC1TuVGeFBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty9-8.delta" sparkle:deltaFrom="8" length="117282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FxncNUlXG33QKVvdj2hrj6kqfpiWXz1DaGLlbSdZnMwRGcaPArb96xfN0FHUrn35e1yU0TMcyDXngEHRdimlAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty9-7.delta" sparkle:deltaFrom="7" length="133070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wkymM0yjyk6qK2q0GP9FCN/NYN5m1c6sDCI0/vVoZVV3abiQoTWsaJyGoMnZ4MyoMjbJJ/m/Lkm+pUuzdh2ODQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty9-6.delta" sparkle:deltaFrom="6" length="157770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="buVfATzWSHZjwVqWfAzyZbmbg0Px9/owGGs9P/vWq7nmaj9AdgomLWhmjp0ppsUBGzghhOGyA3kEEQLj5TChBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty9-5.delta" sparkle:deltaFrom="5" length="220410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jGK2bzUgOrvX23YKcS+cNHLMtMeBT5rFM+yUMAdRv8MeSSuqKwSTEOfwQHPdBd4IT0UUigciNtuSYGCDVgTvAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty9-3.delta" sparkle:deltaFrom="3" length="275626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tb8gRgic5PTOarsE40RygQNGgxUifMXRqDbqV9Ce36+pcQ5vjBUBKD81aJfyFB+eMG+pJKqr9yFELoRZ+RwUCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9</title>
             <pubDate>Mon, 01 Jun 2026 00:32:22 -0400</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -31,19 +46,6 @@
                 <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty7-5.delta" sparkle:deltaFrom="5" length="203034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2ImUWH0dnHrBpe2Rof3dFCjbRTcGE4ga/FizzawMLwVlh69trtgrfo1H4zxzO3CiufWsOSDCVNdKHELPvzGRCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty7-3.delta" sparkle:deltaFrom="3" length="260018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="agijgONPr54ApzBTZBd7kOtJt7ohEkWVILkLeVseG2MOuQUBc2Qp7LgAEVH6PirvKTLTY2IkJXXA9JD5v2AXDg=="/>
                 <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty7-1.delta" sparkle:deltaFrom="1" length="261754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ihcOCunj2zIgL7NJyKg06ng/+lIK5zly+HaYRCVGAoRP+Ui/TKtQIe0oFJWPemQoSeOpmP25sYGlIdoaO1WAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.7</title>
-            <pubDate>Sat, 02 May 2026 20:45:43 -0400</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dstancioff/batty/releases/download/0.7/Batty-0.7.zip" length="1909649" type="application/octet-stream" sparkle:edSignature="c3JuyqtJ0f+oyn2QRyq/0WMDAzNCcakXhOob7f2oZ6HdI/UvBZF9/0Mz4GqjssWvXHrG9fhBAjuQlZTd3I84Dg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty6-5.delta" sparkle:deltaFrom="5" length="171290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6PkS9Jo6D33Haya6p8bRNuRZM9d91aGEY0Yvqq7CybPAvja6gttIPfX1b+ioKO4WO9RALR5OhnsxnYaoYUmSCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty6-3.delta" sparkle:deltaFrom="3" length="233950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zR2QVUd2eNunQsloIpx8ie72w/x6juN5Cv3QhiUOM2O2Br6gRVBDd7lSgToy0Me8uinEIO++hJ6JYe0rT4j3DA=="/>
-                <enclosure url="https://raw.githubusercontent.com/dstancioff/batty/main/Batty6-1.delta" sparkle:deltaFrom="1" length="237170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="11Eo6SCLaA0WkPXDth7pe4iut6tTgBK5HK+dvPDA1zGkc3Dl+RVSLVcHfPIf3JaepFeXQ4ZJ6d9ez91GwAcmBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
